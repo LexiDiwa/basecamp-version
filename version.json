@@ -1,5 +1,5 @@
 {
-  "version": "0.9.17",
-  "summary": "Portable Windows build of Basecamp Game Launcher and Basecamp Admin.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.17"
+  "version": "0.9.18",
+  "summary": "The scan leaves the Windows drive alone, and every check from v0.9.9 on was run again.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.18"
 }
