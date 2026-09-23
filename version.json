@@ -1,5 +1,5 @@
 {
-  "version": "0.9.26",
-  "summary": "The launcher comes back in front of the Pondo window at sign-in, and saved photos can go where you choose.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.26"
+  "version": "0.9.27",
+  "summary": "Save photo works again: losing the window no longer throws the photo away, and a frame is really on the picture.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.27"
 }
