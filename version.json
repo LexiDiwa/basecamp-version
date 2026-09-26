@@ -1,5 +1,5 @@
 {
-  "version": "0.9.29",
-  "summary": "Play lets go when a game dies, the intro length is yours to set, a test copy says so, and the Admin has its own icon.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.29"
+  "version": "0.9.30",
+  "summary": "The Pondo probe reads the published settings instead of a default, and lists every window holding itself on top.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.30"
 }
