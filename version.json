@@ -1,5 +1,5 @@
 {
-  "version": "0.9.31",
-  "summary": "The Pondo probe tests every window it can see, and reads what is inside them.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.31"
+  "version": "0.9.32",
+  "summary": "Games started from the launcher now open their window: an Electron launcher was being told to start hidden.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.32"
 }
