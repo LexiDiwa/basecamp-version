@@ -1,5 +1,5 @@
 {
-  "version": "0.9.33",
-  "summary": "The boot intro now waits for the customer to log in, and the Admin really asks before it publishes.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.33"
+  "version": "0.9.34",
+  "summary": "The intro now plays as soon as the customer logs in, and the staff PIN can minimize the launcher instead of closing it.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.34"
 }
