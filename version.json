@@ -1,5 +1,5 @@
 {
-  "version": "0.9.32",
-  "summary": "Games started from the launcher now open their window: an Electron launcher was being told to start hidden.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.32"
+  "version": "0.9.33",
+  "summary": "The boot intro now waits for the customer to log in, and the Admin really asks before it publishes.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.33"
 }
