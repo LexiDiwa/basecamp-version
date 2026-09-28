@@ -1,5 +1,5 @@
 {
-  "version": "0.9.30",
-  "summary": "The Pondo probe reads the published settings instead of a default, and lists every window holding itself on top.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.30"
+  "version": "0.9.31",
+  "summary": "The Pondo probe tests every window it can see, and reads what is inside them.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.31"
 }
