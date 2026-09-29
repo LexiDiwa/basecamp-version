@@ -1,5 +1,5 @@
 {
-  "version": "0.9.36",
-  "summary": "Booth photos are kept on the server and can be scanned to a phone, and Admin takes photos in bulk with arrange and crop.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.36"
+  "version": "0.9.38",
+  "summary": "Customers get their own login, so their game progress survives the diskless restart - saved when a game closes or their time runs out, and loaded again when they press Play.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.38"
 }
