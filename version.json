@@ -1,5 +1,5 @@
 {
-  "version": "0.9.35",
-  "summary": "Play on a game that is already running now brings it to the front instead of doing nothing, and Close really closes it.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.35"
+  "version": "0.9.36",
+  "summary": "Booth photos are kept on the server and can be scanned to a phone, and Admin takes photos in bulk with arrange and crop.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.36"
 }
