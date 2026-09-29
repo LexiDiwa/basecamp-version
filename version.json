@@ -1,5 +1,5 @@
 {
-  "version": "0.9.34",
-  "summary": "The intro now plays as soon as the customer logs in, and the staff PIN can minimize the launcher instead of closing it.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.34"
+  "version": "0.9.35",
+  "summary": "Play on a game that is already running now brings it to the front instead of doing nothing, and Close really closes it.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.35"
 }
