@@ -1,5 +1,5 @@
 {
-  "version": "0.9.40",
-  "summary": "The square to scan actually works now. It was part of the page, so it stretched the row of buttons and the bottom of the code fell off the screen - it has never once been scannable. It is a panel over the photo now and nothing can clip it.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.40"
+  "version": "0.9.41",
+  "summary": "Every client PC now reports in, or says why it cannot. Diagnostics listed only the server while three clients were running, because every write that would have put them there was thrown away in silence. The PCs board counts against your own list of PCs, names the ones it has never heard from, and "Basecamp Game Launcher.exe --checkin-report" run on a client says exactly why one is missing.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.41"
 }
