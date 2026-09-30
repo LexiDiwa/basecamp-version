@@ -1,5 +1,5 @@
 {
-  "version": "0.9.41",
-  "summary": "Every client PC now reports in, or says why it cannot. Diagnostics listed only the server while three clients were running, because every write that would have put them there was thrown away in silence. The PCs board counts against your own list of PCs, names the ones it has never heard from, and "Basecamp Game Launcher.exe --checkin-report" run on a client says exactly why one is missing.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.41"
+  "version": "0.9.43",
+  "summary": "A customer can no longer get stuck in the launcher. Clicking a photo in About opened a full-size viewer whose arrows, X and Escape all did nothing at all - on a locked client there was no way out of it. Every overlay in the launcher now closes on Escape, on its X and on a click outside, from one place, and a test walks all nine of them.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.43"
 }
