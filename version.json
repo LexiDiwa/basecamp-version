@@ -1,5 +1,5 @@
 {
-  "version": "0.9.39",
-  "summary": "Play now starts Valorant, ROS Legacy and CrossFire again. It was saying SWITCH TO for a game that was not running, because a process merely NAMED like the game counted as the game, and then it never started anything.",
-  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.39"
+  "version": "0.9.40",
+  "summary": "The square to scan actually works now. It was part of the page, so it stretched the row of buttons and the bottom of the code fell off the screen - it has never once been scannable. It is a panel over the photo now and nothing can clip it.",
+  "url": "https://github.com/LexiDiwa/basecamp-launcher/releases/tag/v0.9.40"
 }
